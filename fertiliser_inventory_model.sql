@@ -48,35 +48,3 @@ select * from orders.fct_land_application
 
 
 
-
-
-
-
-
-
-
-
---with appl as (
---	select 
---		plan_id,
---		application_id,
---		activated_crash_at, 
---		activated_rum_at, 
---		activated_apm_at,
---		deleted_at,
---		purge_state,
---		case when deleted_at is not null or purge_state is not null then true else false end as has_removed
---	from core.dim_application
---	left join core.dim_plan using (plan_id)
---	where not is_test_account
---),
---
---dates as (
---	select
---		plan_id,
---		count(application_id) filter (where not has_removed) as available_apps
---	from appl
---	group by 1
---)
---select * from appl
---where plan_id=2132617508
