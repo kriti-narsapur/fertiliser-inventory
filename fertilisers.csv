@@ -1,0 +1,21 @@
+"id","brand","product","material","manufacture_date","expiry_date","form_factor","price"
+5006,"Grow New","Gold","organic","2020-02-15 00:00:00","2022-02-15 00:00:00","liquid",35
+5012,"Mr Fertiliser","Indoor","organic","2020-01-10 00:00:00","2022-01-10 00:00:00","powder",30
+5013,"Fertiliser Plus","Light","inorganic","2020-01-30 00:00:00","2022-01-30 00:00:00","paste",30
+5014,"Mr Fertiliser","Outdoor","inorganic","2020-01-30 00:00:00","2022-01-30 00:00:00","powder",35
+5002,"Rich Fertilisers","A1","inorganic","2020-02-25 00:00:00","2022-02-25 00:00:00","paste",20
+5004,"Farmers","F1","organic","2020-07-09 00:00:00","2022-07-09 00:00:00","paste",20
+5008,"Home and Garden","Red","organic","2020-09-21 00:00:00","2022-09-21 00:00:00","paste",45
+5020,"Ferti Bros","Super Gold","inorganic","2020-08-08 00:00:00","2022-08-08 00:00:00","liquid",45
+5010,"More fertilisers","Local","organic","2020-07-01 00:00:00","2022-07-01 00:00:00","liquid",25
+5011,"Fertiliser Plus","Dark","organic","2020-08-30 00:00:00","2022-08-30 00:00:00","liquid",20
+5016,"Fertex","Maxi","organic","2020-09-26 00:00:00","2022-09-26 00:00:00","liquid",40
+5001,"Quality Products","Gold","organic","2020-09-25 00:00:00","2022-09-25 00:00:00","powder",30
+5007,"Fertigo","Go","organic","2020-08-23 00:00:00","2022-08-23 00:00:00","liquid",40
+5017,"Home and Garden","Blue","organic","2020-04-04 00:00:00","2022-04-04 00:00:00","liquid",30
+5015,"More fertilisers","Global","inorganic","2020-06-13 00:00:00","2022-06-13 00:00:00","liquid",25
+5003,"Cheap-O-Cheap","Ferti Cheap","organic","2020-11-06 00:00:00","2022-11-06 00:00:00","liquid",20
+5005,"Ferti Bros","Black Magic","inorganic","2020-10-10 00:00:00","2022-10-10 00:00:00","powder",20
+5018,"Home and Garden","Green","inorganic","2020-03-20 00:00:00","2022-03-20 00:00:00","powder",40
+5009,"Fertex","Max","organic","2020-05-07 00:00:00","2022-05-07 00:00:00","powder",30
+5019,"Fertigo","Go Plus","organic","2020-05-07 00:00:00","2022-05-07 00:00:00","powder",40
